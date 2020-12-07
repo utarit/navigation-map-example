@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890090000023106192",
+		"product_id":"736430079244547889",
+		"client_id":"400003814079333568",
+		"client_secret":"ED16CA5E0730FFD9EE3BA342BABCDEB48A1ABAB9E2581CEAF2886CFE3F0D4B98",
+		"app_id":"102510861",
+		"package_name":"com.huawei.rnhmsmapdemo",
+		"api_key":"CgB6e3x92YGH1qhualkfzKu+lkHWEzrvj8/LM+OVeh5+TRH1ceMU7MWQAxR4hzmgEzYXVrgvaXlLCVx7pKtFGezT"
+	},
+	"configuration_version":"1.0"
+}
